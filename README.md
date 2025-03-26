@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hey Everyone 👋, I'm Mudasir Haji</h1>
 
-<!--
-**mudasirhaji/mudasirhaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="center"> Mudasir Haji | DevOps Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Passionate about automation, cloud infrastructure, and CI/CD pipelines
+🔹 Expertise in Kubernetes, Docker, GitLab CI/CD, Ansible, and Terraform
+🔹 Building scalable, high-availability systems for seamless deployments
+🔹 Always learning, optimizing, and automating
+
+💻 Let's connect and build something amazing! 🚀</h3>
+
+<p align="center">
+  <a href="https://https://github.com/mudasirhaji">
+  </a>
+  <a href="[https://linkedin.com/in/adityajaiswal7](https://www.linkedin.com/in/mudasirhaji/)">
+  </a>
+</p>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+---
